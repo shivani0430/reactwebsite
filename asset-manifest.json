@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.f5d3ece8.chunk.css",
+    "main.js": "/reactwebsite/static/js/main.a138b0f6.chunk.js",
+    "main.js.map": "/reactwebsite/static/js/main.a138b0f6.chunk.js.map",
+    "runtime-main.js": "/reactwebsite/static/js/runtime-main.92e24734.js",
+    "runtime-main.js.map": "/reactwebsite/static/js/runtime-main.92e24734.js.map",
+    "static/js/2.6728ff69.chunk.js": "/reactwebsite/static/js/2.6728ff69.chunk.js",
+    "static/js/2.6728ff69.chunk.js.map": "/reactwebsite/static/js/2.6728ff69.chunk.js.map",
+    "index.html": "/reactwebsite/index.html",
+    "static/css/main.f5d3ece8.chunk.css.map": "/reactwebsite/static/css/main.f5d3ece8.chunk.css.map",
+    "static/js/2.6728ff69.chunk.js.LICENSE.txt": "/reactwebsite/static/js/2.6728ff69.chunk.js.LICENSE.txt",
+    "static/media/HrcLogo.be21a072.svg": "/reactwebsite/static/media/HrcLogo.be21a072.svg",
+    "static/media/abcLogo.303d1e9d.svg": "/reactwebsite/static/media/abcLogo.303d1e9d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92e24734.js",
+    "static/js/2.6728ff69.chunk.js",
+    "static/css/main.f5d3ece8.chunk.css",
+    "static/js/main.a138b0f6.chunk.js"
+  ]
+}
